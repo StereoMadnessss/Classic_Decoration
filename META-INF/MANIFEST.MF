@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ForgeResourcePackage
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-08-13T14:42:56-0700
+Specification-Version: 1.1
+Implementation-Vendor: examplemodsareus
+

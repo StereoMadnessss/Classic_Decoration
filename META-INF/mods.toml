@@ -1,0 +1,14 @@
+modLoader="javafml" # Which mod loader to use. Don't change this!
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+loaderVersion="[28,)" # Which version of forge should this mod project work with? Don't change this! (28 is current forge version)
+
+[[mods]]
+modId="classicdecoration" # The modid of your mod. This should match the MODID value in your project code and folder names!
+version="${1.1}" # The mod's version number - don't worry about changing this.
+displayName="Classic Decoration" # The mod's display name in the Forge Mods menu.
+displayURL="https://planetminecraft.com/member/StereoMadnesss" # A URL displayed in the mod description
+credits="This mod was developed by StereoMadnesss." # StereoMadnesss, Notch for making the textures used, and Thothdjehuty100 for making the brown spider textures.
+# The text description of what your mod does. Add text between the ```A mod that aims to add the classic textures back into the game for building! ``` marks.
+description='''
+Classic Decoration!
+'''
